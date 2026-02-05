@@ -1,0 +1,11 @@
+C:\Users\mctte\Desktop\dotnetkyu\AssetTracker.Domain\bin\Debug\net9.0\AssetTracker.Domain.deps.json
+C:\Users\mctte\Desktop\dotnetkyu\AssetTracker.Domain\bin\Debug\net9.0\AssetTracker.Domain.dll
+C:\Users\mctte\Desktop\dotnetkyu\AssetTracker.Domain\bin\Debug\net9.0\AssetTracker.Domain.pdb
+C:\Users\mctte\Desktop\dotnetkyu\AssetTracker.Domain\obj\Debug\net9.0\AssetTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mctte\Desktop\dotnetkyu\AssetTracker.Domain\obj\Debug\net9.0\AssetTracker.Domain.AssemblyInfoInputs.cache
+C:\Users\mctte\Desktop\dotnetkyu\AssetTracker.Domain\obj\Debug\net9.0\AssetTracker.Domain.AssemblyInfo.cs
+C:\Users\mctte\Desktop\dotnetkyu\AssetTracker.Domain\obj\Debug\net9.0\AssetTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mctte\Desktop\dotnetkyu\AssetTracker.Domain\obj\Debug\net9.0\AssetTracker.Domain.dll
+C:\Users\mctte\Desktop\dotnetkyu\AssetTracker.Domain\obj\Debug\net9.0\refint\AssetTracker.Domain.dll
+C:\Users\mctte\Desktop\dotnetkyu\AssetTracker.Domain\obj\Debug\net9.0\AssetTracker.Domain.pdb
+C:\Users\mctte\Desktop\dotnetkyu\AssetTracker.Domain\obj\Debug\net9.0\ref\AssetTracker.Domain.dll
