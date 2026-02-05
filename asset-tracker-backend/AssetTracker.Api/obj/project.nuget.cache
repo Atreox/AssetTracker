@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m/dvz2ueZ+4=",
+  "dgSpecHash": "Kqte/VoaeNM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Api\\AssetTracker.Api.csproj",
+  "projectFilePath": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Api\\AssetTracker.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mctte\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\mctte\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

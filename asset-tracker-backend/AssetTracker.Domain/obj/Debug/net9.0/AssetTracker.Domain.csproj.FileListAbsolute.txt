@@ -9,3 +9,15 @@ C:\Users\mctte\Desktop\dotnetkyu\AssetTracker.Domain\obj\Debug\net9.0\AssetTrack
 C:\Users\mctte\Desktop\dotnetkyu\AssetTracker.Domain\obj\Debug\net9.0\refint\AssetTracker.Domain.dll
 C:\Users\mctte\Desktop\dotnetkyu\AssetTracker.Domain\obj\Debug\net9.0\AssetTracker.Domain.pdb
 C:\Users\mctte\Desktop\dotnetkyu\AssetTracker.Domain\obj\Debug\net9.0\ref\AssetTracker.Domain.dll
+F:\Repo\AssetTracker\asset-tracker-backend\AssetTracker.Domain\bin\Debug\net9.0\AssetTracker.Domain.deps.json
+F:\Repo\AssetTracker\asset-tracker-backend\AssetTracker.Domain\bin\Debug\net9.0\AssetTracker.Domain.dll
+F:\Repo\AssetTracker\asset-tracker-backend\AssetTracker.Domain\bin\Debug\net9.0\AssetTracker.Domain.pdb
+F:\Repo\AssetTracker\asset-tracker-backend\AssetTracker.Domain\obj\Debug\net9.0\AssetTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repo\AssetTracker\asset-tracker-backend\AssetTracker.Domain\obj\Debug\net9.0\AssetTracker.Domain.AssemblyInfoInputs.cache
+F:\Repo\AssetTracker\asset-tracker-backend\AssetTracker.Domain\obj\Debug\net9.0\AssetTracker.Domain.AssemblyInfo.cs
+F:\Repo\AssetTracker\asset-tracker-backend\AssetTracker.Domain\obj\Debug\net9.0\AssetTracker.Domain.csproj.CoreCompileInputs.cache
+F:\Repo\AssetTracker\asset-tracker-backend\AssetTracker.Domain\obj\Debug\net9.0\AssetTracker.Domain.sourcelink.json
+F:\Repo\AssetTracker\asset-tracker-backend\AssetTracker.Domain\obj\Debug\net9.0\AssetTracker.Domain.dll
+F:\Repo\AssetTracker\asset-tracker-backend\AssetTracker.Domain\obj\Debug\net9.0\refint\AssetTracker.Domain.dll
+F:\Repo\AssetTracker\asset-tracker-backend\AssetTracker.Domain\obj\Debug\net9.0\AssetTracker.Domain.pdb
+F:\Repo\AssetTracker\asset-tracker-backend\AssetTracker.Domain\obj\Debug\net9.0\ref\AssetTracker.Domain.dll

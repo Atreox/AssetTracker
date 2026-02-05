@@ -115,7 +115,7 @@ AssetTracker/
 #### Backend
 - [.NET 9 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)
 - [SQL Server](https://www.microsoft.com/sql-server) (LocalDB, Express veya tam sürüm)
-- [Visual Studio 2022](https://visualstudio.microsoft.com/) 
+- [Visual Studio 2022 (17.10 veya üzeri — .NET 9 desteği için)](https://visualstudio.microsoft.com/) 
 
 #### Frontend
 - [Node.js](https://nodejs.org/) 18+ veya üzeri
@@ -137,7 +137,7 @@ cd AssetTracker
 #### 2.1. Backend klasörüne gidin
 
 ```bash
-cd backend
+cd asset-tracker-backend
 ```
 
 #### 2.2. Connection String'i ayarlayın
@@ -158,7 +158,7 @@ cd backend
 
 ```bash
 cd AssetTracker.Api
-dotnet ef database update
+dotnet ef database update --project AssetTracker.Infrastructure --startup-project AssetTracker.Api
 ```
 
 veya Package Manager Console'da:
@@ -181,12 +181,26 @@ dotnet run
 
 ---
 
+Seed Data
+
+Uygulama ilk çalıştırmada otomatik seed data oluşturur:
+
+2 Department
+
+3 Employee
+
+4 Asset
+
+1 Test User (admin / 123456)
+
+---
+
 ### 🎨 Adım 3: Frontend Kurulumu
 
 #### 3.1. Yeni bir terminal açın ve frontend klasörüne gidin
 
 ```bash
-cd frontend
+cd asset-tracker-frontend
 ```
 
 #### 3.2. Bağımlılıkları yükleyin
@@ -249,6 +263,8 @@ https://localhost:{PORT}/api
 
 ### Authentication
 Auth dışındaki endpoint'ler **Basic Authentication** gerektirir.
+/Auth/login ve /Auth/register endpoint'leri AllowAnonymous'tir.
+
 
 **Header:**
 ```

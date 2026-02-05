@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Domain\\AssetTracker.Domain.csproj",
+      "projectUniqueName": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Domain\\AssetTracker.Domain.csproj",
       "projectName": "AssetTracker.Domain",
-      "projectPath": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Domain\\AssetTracker.Domain.csproj",
+      "projectPath": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Domain\\AssetTracker.Domain.csproj",
       "packagesPath": "C:\\Users\\mctte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Domain\\obj\\",
+      "outputPath": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",

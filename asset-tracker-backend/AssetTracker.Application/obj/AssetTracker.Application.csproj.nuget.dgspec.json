@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Application\\AssetTracker.Application.csproj": {}
+    "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Application\\AssetTracker.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Application\\AssetTracker.Application.csproj": {
+    "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Application\\AssetTracker.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Application\\AssetTracker.Application.csproj",
+        "projectUniqueName": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Application\\AssetTracker.Application.csproj",
         "projectName": "AssetTracker.Application",
-        "projectPath": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Application\\AssetTracker.Application.csproj",
+        "projectPath": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Application\\AssetTracker.Application.csproj",
         "packagesPath": "C:\\Users\\mctte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Application\\obj\\",
+        "outputPath": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
@@ -36,8 +36,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Domain\\AssetTracker.Domain.csproj": {
-                "projectPath": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Domain\\AssetTracker.Domain.csproj"
+              "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Domain\\AssetTracker.Domain.csproj": {
+                "projectPath": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Domain\\AssetTracker.Domain.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Domain\\AssetTracker.Domain.csproj": {
+    "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Domain\\AssetTracker.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Domain\\AssetTracker.Domain.csproj",
+        "projectUniqueName": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Domain\\AssetTracker.Domain.csproj",
         "projectName": "AssetTracker.Domain",
-        "projectPath": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Domain\\AssetTracker.Domain.csproj",
+        "projectPath": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Domain\\AssetTracker.Domain.csproj",
         "packagesPath": "C:\\Users\\mctte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Domain\\obj\\",
+        "outputPath": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",

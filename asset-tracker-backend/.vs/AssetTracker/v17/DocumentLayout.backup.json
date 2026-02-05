@@ -1,29 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\",
+  "WorkspaceRootPath": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E980AD9E-E545-F4CC-7147-20D0E4E0D346}|AssetTracker.Infrastructure\\AssetTracker.Infrastructure.csproj|c:\\users\\mctte\\desktop\\dotnetkyu\\assettracker.infrastructure\\repositories\\assetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F95EDF89-D009-D9CC-CD50-D15962776666}|AssetTracker.Application\\AssetTracker.Application.csproj|f:\\repo\\assettracker\\asset-tracker-backend\\assettracker.application\\dto\\assets\\assetlistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95EDF89-D009-D9CC-CD50-D15962776666}|AssetTracker.Application\\AssetTracker.Application.csproj|solutionrelative:assettracker.application\\dto\\assets\\assetlistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E980AD9E-E545-F4CC-7147-20D0E4E0D346}|AssetTracker.Infrastructure\\AssetTracker.Infrastructure.csproj|f:\\repo\\assettracker\\asset-tracker-backend\\assettracker.infrastructure\\repositories\\assetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E980AD9E-E545-F4CC-7147-20D0E4E0D346}|AssetTracker.Infrastructure\\AssetTracker.Infrastructure.csproj|solutionrelative:assettracker.infrastructure\\repositories\\assetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F95EDF89-D009-D9CC-CD50-D15962776666}|AssetTracker.Application\\AssetTracker.Application.csproj|c:\\users\\mctte\\desktop\\dotnetkyu\\assettracker.application\\interfaces\\repositories\\iassetrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F95EDF89-D009-D9CC-CD50-D15962776666}|AssetTracker.Application\\AssetTracker.Application.csproj|f:\\repo\\assettracker\\asset-tracker-backend\\assettracker.application\\interfaces\\repositories\\iassetrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F95EDF89-D009-D9CC-CD50-D15962776666}|AssetTracker.Application\\AssetTracker.Application.csproj|solutionrelative:assettracker.application\\interfaces\\repositories\\iassetrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F95EDF89-D009-D9CC-CD50-D15962776666}|AssetTracker.Application\\AssetTracker.Application.csproj|c:\\users\\mctte\\desktop\\dotnetkyu\\assettracker.application\\interfaces\\services\\iassetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F95EDF89-D009-D9CC-CD50-D15962776666}|AssetTracker.Application\\AssetTracker.Application.csproj|f:\\repo\\assettracker\\asset-tracker-backend\\assettracker.application\\interfaces\\services\\iassetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F95EDF89-D009-D9CC-CD50-D15962776666}|AssetTracker.Application\\AssetTracker.Application.csproj|solutionrelative:assettracker.application\\interfaces\\services\\iassetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F95EDF89-D009-D9CC-CD50-D15962776666}|AssetTracker.Application\\AssetTracker.Application.csproj|c:\\users\\mctte\\desktop\\dotnetkyu\\assettracker.application\\dto\\assets\\assetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F95EDF89-D009-D9CC-CD50-D15962776666}|AssetTracker.Application\\AssetTracker.Application.csproj|f:\\repo\\assettracker\\asset-tracker-backend\\assettracker.application\\dto\\assets\\assetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F95EDF89-D009-D9CC-CD50-D15962776666}|AssetTracker.Application\\AssetTracker.Application.csproj|solutionrelative:assettracker.application\\dto\\assets\\assetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F95EDF89-D009-D9CC-CD50-D15962776666}|AssetTracker.Application\\AssetTracker.Application.csproj|c:\\users\\mctte\\desktop\\dotnetkyu\\assettracker.application\\services\\assetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F95EDF89-D009-D9CC-CD50-D15962776666}|AssetTracker.Application\\AssetTracker.Application.csproj|f:\\repo\\assettracker\\asset-tracker-backend\\assettracker.application\\services\\assetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F95EDF89-D009-D9CC-CD50-D15962776666}|AssetTracker.Application\\AssetTracker.Application.csproj|solutionrelative:assettracker.application\\services\\assetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8392226B-A545-6B86-0D20-4DE3FABCB37B}|AssetTracker.Api\\AssetTracker.Api.csproj|c:\\users\\mctte\\desktop\\dotnetkyu\\assettracker.api\\controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8392226B-A545-6B86-0D20-4DE3FABCB37B}|AssetTracker.Api\\AssetTracker.Api.csproj|f:\\repo\\assettracker\\asset-tracker-backend\\assettracker.api\\controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8392226B-A545-6B86-0D20-4DE3FABCB37B}|AssetTracker.Api\\AssetTracker.Api.csproj|solutionrelative:assettracker.api\\controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,85 +38,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AssetService.cs",
-              "DocumentMoniker": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Application\\Services\\AssetService.cs",
-              "RelativeDocumentMoniker": "AssetTracker.Application\\Services\\AssetService.cs",
-              "ToolTip": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Application\\Services\\AssetService.cs",
-              "RelativeToolTip": "AssetTracker.Application\\Services\\AssetService.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAQwHUAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AssetListItemDto.cs",
+              "DocumentMoniker": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Application\\DTO\\Assets\\AssetListItemDto.cs",
+              "RelativeDocumentMoniker": "AssetTracker.Application\\DTO\\Assets\\AssetListItemDto.cs",
+              "ToolTip": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Application\\DTO\\Assets\\AssetListItemDto.cs",
+              "RelativeToolTip": "AssetTracker.Application\\DTO\\Assets\\AssetListItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T10:49:01.041Z",
+              "WhenOpened": "2026-02-05T11:29:40.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "AssetService.cs",
+              "DocumentMoniker": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Application\\Services\\AssetService.cs",
+              "RelativeDocumentMoniker": "AssetTracker.Application\\Services\\AssetService.cs",
+              "ToolTip": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Application\\Services\\AssetService.cs",
+              "RelativeToolTip": "AssetTracker.Application\\Services\\AssetService.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAQwHUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T10:49:01.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AssetController.cs",
-              "DocumentMoniker": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Api\\Controllers\\AssetController.cs",
+              "DocumentMoniker": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Api\\Controllers\\AssetController.cs",
               "RelativeDocumentMoniker": "AssetTracker.Api\\Controllers\\AssetController.cs",
-              "ToolTip": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Api\\Controllers\\AssetController.cs",
+              "ToolTip": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Api\\Controllers\\AssetController.cs",
               "RelativeToolTip": "AssetTracker.Api\\Controllers\\AssetController.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T10:32:08.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IAssetService.cs",
-              "DocumentMoniker": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Application\\Interfaces\\Services\\IAssetService.cs",
-              "RelativeDocumentMoniker": "AssetTracker.Application\\Interfaces\\Services\\IAssetService.cs",
-              "ToolTip": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Application\\Interfaces\\Services\\IAssetService.cs",
-              "RelativeToolTip": "AssetTracker.Application\\Interfaces\\Services\\IAssetService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA4AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T10:31:45.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IAssetRepositories.cs",
-              "DocumentMoniker": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Application\\Interfaces\\Repositories\\IAssetRepositories.cs",
-              "RelativeDocumentMoniker": "AssetTracker.Application\\Interfaces\\Repositories\\IAssetRepositories.cs",
-              "ToolTip": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Application\\Interfaces\\Repositories\\IAssetRepositories.cs",
-              "RelativeToolTip": "AssetTracker.Application\\Interfaces\\Repositories\\IAssetRepositories.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwA0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T10:31:22.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T10:32:08.914Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AssetDto.cs",
-              "DocumentMoniker": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Application\\DTO\\Assets\\AssetDto.cs",
-              "RelativeDocumentMoniker": "AssetTracker.Application\\DTO\\Assets\\AssetDto.cs",
-              "ToolTip": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Application\\DTO\\Assets\\AssetDto.cs",
-              "RelativeToolTip": "AssetTracker.Application\\DTO\\Assets\\AssetDto.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAoAAAAjAAAAAAAAAA==",
+              "Title": "IAssetService.cs",
+              "DocumentMoniker": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Application\\Interfaces\\Services\\IAssetService.cs",
+              "RelativeDocumentMoniker": "AssetTracker.Application\\Interfaces\\Services\\IAssetService.cs",
+              "ToolTip": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Application\\Interfaces\\Services\\IAssetService.cs",
+              "RelativeToolTip": "AssetTracker.Application\\Interfaces\\Services\\IAssetService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T10:30:56.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T10:31:45.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "IAssetRepositories.cs",
+              "DocumentMoniker": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Application\\Interfaces\\Repositories\\IAssetRepositories.cs",
+              "RelativeDocumentMoniker": "AssetTracker.Application\\Interfaces\\Repositories\\IAssetRepositories.cs",
+              "ToolTip": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Application\\Interfaces\\Repositories\\IAssetRepositories.cs",
+              "RelativeToolTip": "AssetTracker.Application\\Interfaces\\Repositories\\IAssetRepositories.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T10:31:22.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssetDto.cs",
+              "DocumentMoniker": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Application\\DTO\\Assets\\AssetDto.cs",
+              "RelativeDocumentMoniker": "AssetTracker.Application\\DTO\\Assets\\AssetDto.cs",
+              "ToolTip": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Application\\DTO\\Assets\\AssetDto.cs",
+              "RelativeToolTip": "AssetTracker.Application\\DTO\\Assets\\AssetDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T10:30:56.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AssetRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Infrastructure\\Repositories\\AssetRepository.cs",
+              "DocumentMoniker": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Infrastructure\\Repositories\\AssetRepository.cs",
               "RelativeDocumentMoniker": "AssetTracker.Infrastructure\\Repositories\\AssetRepository.cs",
-              "ToolTip": "C:\\Users\\mctte\\Desktop\\dotnetkyu\\AssetTracker.Infrastructure\\Repositories\\AssetRepository.cs",
+              "ToolTip": "F:\\Repo\\AssetTracker\\asset-tracker-backend\\AssetTracker.Infrastructure\\Repositories\\AssetRepository.cs",
               "RelativeToolTip": "AssetTracker.Infrastructure\\Repositories\\AssetRepository.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAA1wA0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T10:30:37.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T10:30:37.24Z"
             }
           ]
         }
