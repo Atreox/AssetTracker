@@ -126,7 +126,7 @@ AssetTracker/
 ### 📦 Adım 1: Projeyi Klonlayın
 
 ```bash
-git clone https://github.com/kullaniciadi/AssetTracker.git
+git clone https://github.com/Atreox/AssetTracker.git
 cd AssetTracker
 ```
 
@@ -235,7 +235,7 @@ npm run dev
 1. Tarayıcınızda `http://localhost:5173` adresine gidin
 2. Giriş bilgileri:
    - **Username**: `admin`
-   - **Password**: `Admin123!`
+   - **Password**: `123456`
 3. Dashboard'da varlıkları yönetmeye başlayın! 🚀
 
 ---
@@ -248,7 +248,7 @@ https://localhost:{PORT}/api
 ```
 
 ### Authentication
-Tüm endpoint'ler **Basic Authentication** gerektirir.
+Auth dışındaki endpoint'ler **Basic Authentication** gerektirir.
 
 **Header:**
 ```
